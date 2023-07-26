@@ -1,2 +1,2 @@
 # TimeTable
-A simple TimeTable html code 
+A simple TimeTable html code..
